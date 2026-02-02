@@ -1,4 +1,4 @@
-amount_due = 50
+amount_due = 75
 
 while amount_due > 0:
     print("Amount Due:", amount_due)
